@@ -1,0 +1,113 @@
+What is Data Preprocessing
+why is data preprocessing is important
+= incomplete
+= noisy
+=inconsitent
+=duplicate
+ML algo for preprocessing
+=GIGO - Garbage in Garbage out
+techniques
+data cleaning
+data integration
+data reduction
+= Data Reduction is a techniques use to reduce the data size by aggregating, eliminating redundant features, or clustering for intances
+
+data transformation
+=data transformation means data are transformed or consilidated into forms appropriate for ML model training, such as normalization, may be applied where data are scaled to fall within a smaller range like 0.0 to 1.0
+- Aggregation
+- Feature type conversation
+- Normalization
+- Attribute / feature construction
+
+data discretization
+= data discretization techniques transform numeric data by mapping values to internal or concept labels. 
+. It can be used to reduce the number of values of a given continois attribute by dividing the range of the attribute into intervals.
+. Discretization techniques include
+- Binning
+- Histogram Analysis
+- Cluster Analysis
+- Decision-tree Analysis
+- Correlation Ananlysis
+
+prerequisites
+= Python Libraries
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit Learn
+= Mathematics
+-Stastics
+- Probability
+- Calculus
+- Linear Algebra
+
+What is Feature Engineering
+= Feature is an attribute or property shared by all of the indepedent units on which analysis or predication is to be done
+= Feature Scaling is the process to create feature/ extract the features from existing features by domain knowledge to increase the performance of machine learning model.
+
+= Major Process of feature engineering
+- Brainstorming or testing features
+- deciding what features to create
+- creating features
+- checking how the features work with model
+- improving your features if needed
+- go back to brainstorming / creating more feautes until the work is done
+
+What is Varible
+= A varible is any characteristic, number, or quantity that can be measured or counted
+1. Numerical
+>> A numerical variable is a varible where the measurement or number has a numerical meaning. eg(Age, Weight, Income, Percentage)
+. Discretes - The value which can be counted as whole value(fixed) called discrete variable. 
+eg (1,45,73,58 ), integer value. Not (56.4, 1.5, 73.6, 58.2)
+
+. Continous - The values that contain range measurements called as continous variable. eg- (56.4, 1.5, 73.6, 58.2), the floating value.
+
+2. Categorical
+>> The values of a categorical variable are selected from a group of categories, also called labels. 
+eg-( Grade, quality, days, product)
+. Ordinal - Ordinal variable are categorical varible in which the categories can be meaningfully ordered.
+like ( Grade - A, b, c, d ), (quality - Poor, bad, good, very good), (month- jan, feb, march...so on)
+
+. Nominal- Nomical varible is like ordinal varible but there is nothing that indicate an intrinsic order of the labels and in principal.
+- All labels are equal no order
+- NO mathematical values
+eg-(product - Laptop, bag, mouse), (language- python, java, php)
+
+3. Dates and Times
+>> Datetime varible can contain date, time, or data and time only
+
+4. Mixed
+>> The varible which contain numbers and categories (labels) called as mixed varible
+
+
+
+11 Important Model Evaluation Metrics for Machine Learning Everyone should know
+
+
+
+
+network protocols (DHCP, TCP/IP, static routing).
+
+
+singup--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
